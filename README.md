@@ -1,6 +1,6 @@
 # OCP9_Predisez_la_demande_en_electricite
 Projet 9 du parcours Data Analyst chez Openclassrooms.
-## Le script en version COULEUR est disponible en zip pour une meilleur présentation, sinon en Noir & Blanc au format ipynb.
+## Le script en version COULEUR est disponible en zip pour une meilleur présentation, ou bien à l'adresse suivante: https://bertrand4.github.io/OCP9_Predisez_la_demande_en_electricite/ , sinon en Noir & Blanc au format ipynb.
 Mise en situation
 Vous êtes employé chez Enercoop, société coopérative qui s'est développée grâce à la libéralisation du marché de l’électricité en France. Elle est spécialisée dans les énergies renouvelables.
 
